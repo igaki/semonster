@@ -6,4 +6,3 @@ public class Main {
     p1.showDeck();
   }
 }
-hoge
